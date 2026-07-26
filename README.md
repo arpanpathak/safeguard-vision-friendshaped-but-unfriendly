@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🌲 THE THREE GUARDIANS OF THE CASCADES 🌲
+### 🌲 THE GUARDIANS OF THE CASCADES (& BEYOND) 🌲
 
 <br>
 
@@ -30,6 +30,7 @@
 [![Rust](https://img.shields.io/badge/Rust-1.85+-orange.svg)](https://www.rust-lang.org)
 [![CUDA-Oxide](https://img.shields.io/badge/GPU-CUDA--Oxide-76B900)](https://github.com/NVIDIA/cuda-oxide)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Cloud GPU](https://img.shields.io/badge/☁️-Cloud%20GPU%20Guide-8A2BE2)](CLOUD_TRAINING.md)
 
 </div>
 
@@ -137,6 +138,19 @@ cargo build
 ```
 
 > **Note:** `cargo build` will fail on `todo!()` macros until real implementations replace the stubs. This is intentional — pick a module and start hacking!
+
+---
+
+## ☁️ No GPU? No Problem.
+
+Don't have an NVIDIA GPU for training models or compiling CUDA-Oxide kernels?
+
+**Rent one for $0.19/hr.** Full guide with provider comparison, step-by-step RunPod setup, and cost estimates for:
+- 🦀 CUDA-Oxide kernel compilation (RTX 3090 — $0.19/hr)
+- 🗣️ Whisper STT fine-tuning (RTX 4090 — $0.34/hr)
+- 🧠 Mistral 7B LoRA fine-tuning (A100 — $0.50/hr)
+
+👉 **[CLOUD_TRAINING.md](CLOUD_TRAINING.md)**
 
 ---
 
