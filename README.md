@@ -4,18 +4,19 @@
 
 <br>
 
-<img src="art/three-guardians.svg" alt="Three Guardians of the Cascades — Grizzly, Black Bear, Polar Bear" width="100%">
+<img src="art/three-guardians.svg" alt="ALL Guardians — Real & Mythical" width="100%">
 
 <br><br>
 
-| Guardian | Spirit | Famous Saying | What It Means Here |
-|----------|--------|--------------|-------------------|
-| 🐻 **Black Bear** | *Protector of the understory* | **"If it's black, don't hurt"** | The quiet observer. Read the subtle signals. Know when to walk away. |
-| 🐻‍❄️ **Grizzly** | *Guardian of the high country* | **"If it's grizzly, bear spray please. Thank you GTFO!"** | When danger is real — loud, clear, actionable alerts. No ambiguity. |
-| 🐻‍❄️ **Polar Bear** | *Warden of the frozen edge* | **"If it's polar, you won't see another year of solar"** | Some situations are so toxic you must cut all contact. The emergency wipe. |
-| 🧌 **Yeti (Unclassified)** | *??* | **"If it's a yeti, you're already dead, sweetie"** | Some threats are beyond profiling. The yeti is a reminder — not everything can be quantified. Trust your gut. |
+| # | Guardian | Realm | Famous Saying | What It Means Here |
+|---|----------|-------|--------------|-------------------|
+| 1 | 🟫 **Grizzly** | 🌲 Pacific Northwest | *"If it's grizzly, bear spray please. Thank you GTFO!"* | When danger is real — loud, clear, actionable alerts. No ambiguity. |
+| 2 | ⬛ **Black Bear** | 🌲 Pacific Northwest | *"If it's black, don't hurt"* | The quiet observer. Read the subtle signals. Know when to walk away. |
+| 3 | ⬜ **Polar Bear** | 🧊 Arctic | *"If it's polar, you won't see another year of solar"* | Some situations are so toxic you must cut all contact. The emergency wipe. |
+| 4 | 🧌 **Yeti** | 🏔️ Himalayas (Myth) | *"If it's a yeti, you're already dead, sweetie"* | Beyond profiling. Not everything can be quantified. Trust your gut. |
+| 5 | 🦍 **Bigfoot / Sasquatch** | 🌲 Pacific Northwest (Myth) | *"If you see him, he already saw you first"* | The ultimate unknown. Some threats move silently. Stay aware. |
 
-> *"The black bear knows every berry patch. The grizzly knows every trail. The polar bear knows no mercy. The yeti knows you are not prepared."*
+> *"The grizzly charges. The black bear watches. The polar bear hunts. The yeti appears. The bigfoot vanishes. Choose your encounter wisely."*
 
 </div>
 

@@ -1,136 +1,135 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 520" width="100%" height="auto">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 540" width="100%" height="auto">
   <defs>
     <radialGradient id="portal" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ff00ff" stop-opacity="0.15"/>
-      <stop offset="50%" stop-color="#00ffff" stop-opacity="0.08"/>
+      <stop offset="0%" stop-color="#ff00ff" stop-opacity="0.12"/>
+      <stop offset="40%" stop-color="#00ffff" stop-opacity="0.06"/>
       <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="madness" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff00ff" stop-opacity="0.3"/>
-      <stop offset="33%" stop-color="#00ffff" stop-opacity="0.2"/>
-      <stop offset="66%" stop-color="#ffff00" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#ff00ff" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#ff00ff" stop-opacity="0.25"/>
+      <stop offset="20%" stop-color="#00ffff" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#ffff00" stop-opacity="0.1"/>
+      <stop offset="80%" stop-color="#00ff88" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ff00ff" stop-opacity="0.25"/>
     </linearGradient>
     <pattern id="yetiFur" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M2,2 L8,20 M12,4 L16,22 M6,0 L10,18" stroke="#E8E0D0" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
       <path d="M0,12 L15,24 M10,2 L20,16" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" opacity="0.8"/>
     </pattern>
+    <pattern id="bigfootFur" width="20" height="28" patternUnits="userSpaceOnUse">
+      <path d="M2,2 L10,24 M12,4 L18,26 M0,14 L8,28" stroke="#4A3020" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+      <path d="M6,0 L14,16 M16,8 L20,22" stroke="#6B4C3B" stroke-width="1.5" stroke-linecap="round" opacity="0.3"/>
+    </pattern>
   </defs>
 
-  <rect x="0" y="0" width="1500" height="520" fill="url(#madness)"/>
+  <rect x="0" y="0" width="1800" height="540" fill="url(#madness)"/>
 
   <style>
-    .label-title { font-family: 'Segoe UI', sans-serif; font-weight: 800; font-size: 14px; text-anchor: middle; letter-spacing: 1px; }
-    .label-sub { font-family: 'Segoe UI', sans-serif; font-style: italic; font-size: 11px; text-anchor: middle; }
-    .yeti-title { font-family: 'Segoe UI', sans-serif; font-weight: 900; font-size: 16px; text-anchor: middle; letter-spacing: 2px; fill: #ff00ff; }
-    .yeti-sub { font-family: 'Segoe UI', sans-serif; font-style: italic; font-size: 11px; text-anchor: middle; fill: #cc00cc; }
+    .lt { font-family: 'Segoe UI', sans-serif; font-weight: 800; font-size: 14px; text-anchor: middle; letter-spacing: 1px; }
+    .ls { font-family: 'Segoe UI', sans-serif; font-style: italic; font-size: 11px; text-anchor: middle; }
+    .mt { font-family: 'Segoe UI', sans-serif; font-weight: 900; font-size: 15px; text-anchor: middle; letter-spacing: 2px; fill: #cc00cc; }
+    .ms { font-family: 'Segoe UI', sans-serif; font-style: italic; font-size: 11px; text-anchor: middle; fill: #990099; }
   </style>
 
-  <!-- Multiverse Portal Glow -->
-  <ellipse cx="750" cy="200" rx="700" ry="200" fill="url(#portal)"/>
+  <ellipse cx="900" cy="220" rx="850" ry="240" fill="url(#portal)"/>
 
-  <text x="750" y="30" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="20" fill="#1a1a1a" text-anchor="middle" letter-spacing="4">THE MULTIVERSE OF MADNESS — GUARDIANS ACROSS DIMENSIONS</text>
-  <text x="750" y="48" font-family="'Segoe UI', sans-serif" font-style="italic" font-size="12" fill="#666" text-anchor="middle">Some are real. Some are myth. All will mess you up.</text>
+  <text x="900" y="28" font-family="'Segoe UI', sans-serif" font-weight="900" font-size="18" fill="#1a1a1a" text-anchor="middle" letter-spacing="5">THE MULTIVERSE OF MADNESS — ALL GUARDIANS</text>
+  <text x="900" y="46" font-family="'Segoe UI', sans-serif" font-style="italic" font-size="12" fill="#666" text-anchor="middle">Real, mythical, interdimensional. They all have one thing in common: you do not want to mess with them.</text>
 
   <!-- 1. GRIZZLY -->
-  <g transform="translate(20, 60)">
-    <ellipse cx="145" cy="340" rx="120" ry="12" fill="url(#portal)"/>
-    <path d="M 65 290 L 52 380 L 78 382 L 90 300 Z" fill="#1C0F04"/>
-    <path d="M 185 290 L 172 380 L 198 382 L 208 300 Z" fill="#1C0F04"/>
-    <path d="M 55 310 C 35 265 42 200 65 170 C 88 145 125 148 148 155 C 185 168 210 195 225 230 C 230 265 215 305 185 315 C 140 325 75 322 55 310 Z" fill="#6A4827"/>
-    <path d="M 105 160 C 115 115 150 100 178 118 C 192 130 198 150 192 165 C 162 140 128 142 105 160 Z" fill="#8C6239"/>
-    <path d="M 200 145 C 215 138 238 145 248 165 C 258 185 245 205 225 200 C 210 185 198 160 200 145 Z" fill="#5B3F21"/>
-    <circle cx="210" cy="155" r="2.5" fill="#000"/>
-    <path d="M 248 165 Q 260 180 252 195 Q 240 200 230 192" stroke="#281A0B" stroke-width="2" fill="none"/>
-    <text x="145" y="375" class="label-title" fill="#422B14">GRIZZLY</text>
-    <text x="145" y="390" class="label-sub" fill="#666">If it's grizzly, bear spray please. Thank you GTFO!</text>
+  <g transform="translate(15, 60)">
+    <ellipse cx="130" cy="350" rx="110" ry="10" fill="url(#portal)"/>
+    <path d="M 55 300 L 42 388 L 68 390 L 78 310 Z" fill="#1C0F04"/>
+    <path d="M 175 300 L 162 388 L 188 390 L 198 310 Z" fill="#1C0F04"/>
+    <path d="M 48 320 C 30 270 38 210 60 180 C 82 155 115 158 135 165 C 170 178 195 205 210 240 C 215 275 200 315 170 325 C 125 335 68 332 48 320 Z" fill="#6A4827"/>
+    <path d="M 95 170 C 105 125 140 110 165 128 C 178 140 185 160 178 175 C 148 150 118 152 95 170 Z" fill="#8C6239"/>
+    <path d="M 188 155 C 202 148 225 155 235 175 C 245 195 232 210 212 205 C 198 192 185 170 188 155 Z" fill="#5B3F21"/>
+    <circle cx="198" cy="165" r="2.5" fill="#000"/>
+    <path d="M 235 175 Q 248 190 240 205 Q 228 210 218 202" stroke="#281A0B" stroke-width="2" fill="none"/>
+    <text x="135" y="385" class="lt" fill="#422B14">GRIZZLY</text>
+    <text x="135" y="400" class="ls" fill="#666">Bear spray please. GTFO!</text>
   </g>
 
   <!-- 2. BLACK BEAR -->
-  <g transform="translate(380, 60)">
-    <ellipse cx="130" cy="340" rx="110" ry="12" fill="url(#portal)"/>
-    <path d="M 55 290 L 42 378 L 68 380 L 78 300 Z" fill="#080808"/>
-    <path d="M 165 290 L 152 378 L 178 380 L 188 300 Z" fill="#080808"/>
-    <path d="M 48 310 C 32 260 45 195 72 165 C 100 140 145 148 175 168 C 200 185 210 215 205 250 C 195 285 160 315 125 315 C 85 315 55 325 48 310 Z" fill="#2B2B2B"/>
-    <path d="M 190 155 C 200 145 218 152 225 168 C 232 182 222 195 210 190 C 200 178 192 168 190 155 Z" fill="#C4915C"/>
-    <path d="M 222 165 C 232 168 235 178 228 183 C 222 186 218 180 222 165 Z" fill="#080808"/>
-    <circle cx="200" cy="160" r="3" fill="#000"/>
-    <circle cx="201" cy="159" r="0.8" fill="#FFF"/>
-    <text x="130" y="375" class="label-title" fill="#141414">BLACK BEAR</text>
-    <text x="130" y="390" class="label-sub" fill="#666">If it's black, don't hurt</text>
+  <g transform="translate(320, 60)">
+    <ellipse cx="115" cy="350" rx="100" ry="10" fill="url(#portal)"/>
+    <path d="M 48 300 L 38 386 L 60 388 L 70 310 Z" fill="#080808"/>
+    <path d="M 148 300 L 138 386 L 160 388 L 170 310 Z" fill="#080808"/>
+    <path d="M 42 320 C 28 270 38 210 62 180 C 88 158 128 165 155 182 C 178 198 185 228 180 260 C 172 292 142 320 112 320 C 78 320 50 330 42 320 Z" fill="#2B2B2B"/>
+    <path d="M 168 165 C 178 155 195 162 202 178 C 208 192 198 205 188 200 C 178 188 170 178 168 165 Z" fill="#C4915C"/>
+    <path d="M 200 175 C 208 178 210 188 205 192 C 200 195 196 190 200 175 Z" fill="#080808"/>
+    <circle cx="180" cy="170" r="3" fill="#000"/>
+    <text x="115" y="385" class="lt" fill="#141414">BLACK BEAR</text>
+    <text x="115" y="400" class="ls" fill="#666">If it's black, don't hurt</text>
   </g>
 
   <!-- 3. POLAR BEAR -->
-  <g transform="translate(720, 60)">
-    <ellipse cx="145" cy="340" rx="125" ry="12" fill="url(#portal)"/>
-    <path d="M 60 290 L 48 378 L 78 380 L 90 300 Z" fill="#7A7265"/>
-    <path d="M 180 290 L 168 378 L 198 380 L 208 300 Z" fill="#7A7265"/>
-    <path d="M 52 310 C 35 260 45 195 75 160 C 108 130 158 140 190 160 C 220 180 232 215 228 250 C 218 285 180 315 140 315 C 95 315 62 325 52 310 Z" fill="#FAF8F3"/>
-    <path d="M 82 160 C 110 138 155 142 185 162 C 175 180 120 182 82 160 Z" fill="#FFFFFF" opacity="0.5"/>
-    <path d="M 215 155 C 228 148 245 155 252 172 C 258 188 248 200 232 195 C 222 185 215 168 215 155 Z" fill="#EFEBE4"/>
-    <path d="M 248 170 C 258 172 260 180 254 184 C 248 186 245 180 248 170 Z" fill="#0F0F0F"/>
-    <circle cx="228" cy="162" r="2.5" fill="#0F0F0F"/>
-    <text x="145" y="375" class="label-title" fill="#666">POLAR BEAR</text>
-    <text x="145" y="390" class="label-sub" fill="#666">If it's polar, you won't see another year of solar</text>
+  <g transform="translate(610, 60)">
+    <ellipse cx="130" cy="350" rx="115" ry="10" fill="url(#portal)"/>
+    <path d="M 55 300 L 42 388 L 72 390 L 82 310 Z" fill="#7A7265"/>
+    <path d="M 165 300 L 152 388 L 182 390 L 192 310 Z" fill="#7A7265"/>
+    <path d="M 48 320 C 30 270 38 208 65 175 C 95 148 142 155 172 175 C 200 195 210 230 205 265 C 195 298 162 325 128 325 C 88 325 58 335 48 320 Z" fill="#FAF8F3"/>
+    <path d="M 75 175 C 100 152 140 158 168 178 C 158 195 110 198 75 175 Z" fill="#FFFFFF" opacity="0.5"/>
+    <path d="M 198 168 C 210 160 228 168 235 185 C 240 200 230 212 215 208 C 205 198 198 182 198 168 Z" fill="#EFEBE4"/>
+    <path d="M 230 182 C 240 184 242 192 236 196 C 230 198 228 192 230 182 Z" fill="#0F0F0F"/>
+    <circle cx="212" cy="175" r="2.5" fill="#0F0F0F"/>
+    <text x="130" y="385" class="lt" fill="#666">POLAR BEAR</text>
+    <text x="130" y="400" class="ls" fill="#666">No more solar for you</text>
   </g>
 
-  <!-- 4. YETI — THE MYTHICAL WILD CARD -->
-  <g transform="translate(1080, 60)">
-    <ellipse cx="170" cy="340" rx="140" ry="12" fill="url(#portal)"/>
-    <!-- Enormous shaggy legs -->
-    <path d="M 70 280 L 52 378 L 92 382 L 108 290 Z" fill="#D8D0C0"/>
-    <path d="M 210 280 L 192 378 L 232 382 L 248 290 Z" fill="#D8D0C0"/>
-    <!-- Giant feet -->
-    <ellipse cx="72" cy="378" rx="30" ry="10" fill="#C8C0B0"/>
-    <ellipse cx="212" cy="378" rx="30" ry="10" fill="#C8C0B0"/>
-    <circle cx="55" cy="370" r="3" fill="#A89888"/>
-    <circle cx="65" cy="367" r="3" fill="#A89888"/>
-    <circle cx="78" cy="368" r="3" fill="#A89888"/>
-    <circle cx="195" cy="368" r="3" fill="#A89888"/>
-    <circle cx="208" cy="367" r="3" fill="#A89888"/>
-    <circle cx="218" cy="370" r="3" fill="#A89888"/>
-    <!-- Towering shaggy body -->
-    <path d="M 55 310 C 30 250 35 140 80 85 C 125 42 195 45 242 90 C 278 130 280 200 265 260 C 252 300 215 335 160 338 C 105 340 68 328 55 310 Z" fill="#F0ECE0"/>
-    <!-- Yeti fur texture overlay -->
-    <path d="M 55 310 C 30 250 35 140 80 85 C 125 42 195 45 242 90 C 278 130 280 200 265 260 C 252 300 215 335 160 338 C 105 340 68 328 55 310 Z" fill="url(#yetiFur)"/>
-    <!-- Shaggy fur tufts -->
-    <path d="M 45 300 L 38 295 M 42 280 L 35 275 M 48 260 L 42 252 M 265 290 L 272 285 M 270 270 L 278 265 M 268 250 L 275 242" stroke="#E0D8C8" stroke-width="3" stroke-linecap="round" fill="none"/>
-    <!-- Massive head -->
-    <path d="M 120 100 C 110 65 155 42 185 42 C 215 42 245 58 248 85 C 252 115 235 135 205 138 C 165 140 130 125 120 100 Z" fill="#F5F2E8"/>
-    <!-- Deep-set glowing eyes -->
-    <ellipse cx="160" cy="82" rx="8" ry="5" fill="#FF00FF"/>
-    <ellipse cx="160" cy="82" rx="4" ry="3" fill="#FFFFFF"/>
-    <ellipse cx="210" cy="82" rx="8" ry="5" fill="#FF00FF"/>
-    <ellipse cx="210" cy="82" rx="4" ry="3" fill="#FFFFFF"/>
-    <!-- Yeti snout -->
-    <path d="M 175 98 L 195 108 C 200 118 195 128 185 128 L 170 120 Z" fill="#D8D0C0"/>
-    <path d="M 188 108 C 195 110 198 118 192 122 C 188 124 184 118 188 108 Z" fill="#1a1a1a"/>
-    <!-- Angry mouth -->
-    <path d="M 178 122 Q 185 118 192 122" stroke="#1a1a1a" stroke-width="2.5" fill="none"/>
-    <!-- Mythical crown/portal effect -->
-    <ellipse cx="185" cy="48" rx="25" ry="8" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.6"/>
-    <ellipse cx="185" cy="48" rx="35" ry="12" fill="none" stroke="#00ffff" stroke-width="1" opacity="0.4"/>
-    <!-- Arms reaching forward -->
-    <path d="M 95 160 Q 60 180 55 220" stroke="#F0ECE0" stroke-width="18" stroke-linecap="round" fill="none"/>
-    <path d="M 255 160 Q 290 180 295 220" stroke="#F0ECE0" stroke-width="18" stroke-linecap="round" fill="none"/>
-    <!-- Giant claws -->
-    <path d="M 52 218 L 46 225 M 56 220 L 50 228 M 62 222 L 58 230" stroke="#C8C0B0" stroke-width="2.5" stroke-linecap="round" fill="none"/>
-    <path d="M 290 218 L 296 225 M 286 220 L 292 228 M 280 222 L 284 230" stroke="#C8C0B0" stroke-width="2.5" stroke-linecap="round" fill="none"/>
-
-    <text x="170" y="378" class="yeti-title">⚠️ YETI (UNCLASSIFIED) ⚠️</text>
-    <text x="170" y="395" class="yeti-sub">If it's a yeti, you're already dead, sweetie</text>
+  <!-- 4. YETI -->
+  <g transform="translate(890, 60)">
+    <ellipse cx="145" cy="350" rx="130" ry="12" fill="url(#portal)"/>
+    <path d="M 65 290 L 48 388 L 82 392 L 98 300 Z" fill="#D8D0C0"/>
+    <path d="M 185 290 L 168 388 L 202 392 L 218 300 Z" fill="#D8D0C0"/>
+    <ellipse cx="65" cy="388" rx="28" ry="10" fill="#C8C0B0"/>
+    <ellipse cx="195" cy="388" rx="28" ry="10" fill="#C8C0B0"/>
+    <path d="M 50 320 C 28 260 32 150 72 95 C 112 50 178 52 218 98 C 252 135 255 205 240 268 C 228 308 192 342 145 345 C 95 348 62 338 50 320 Z" fill="#F0ECE0"/>
+    <path d="M 50 320 C 28 260 32 150 72 95 C 112 50 178 52 218 98 C 252 135 255 205 240 268 C 228 308 192 342 145 345 C 95 348 62 338 50 320 Z" fill="url(#yetiFur)"/>
+    <path d="M 108 110 C 100 78 140 55 168 55 C 195 55 222 70 225 95 C 228 122 212 140 185 142 C 148 144 118 132 108 110 Z" fill="#F5F2E8"/>
+    <ellipse cx="142" cy="92" rx="7" ry="5" fill="#FF00FF"/>
+    <ellipse cx="142" cy="92" rx="3" ry="2.5" fill="#FFFFFF"/>
+    <ellipse cx="188" cy="92" rx="7" ry="5" fill="#FF00FF"/>
+    <ellipse cx="188" cy="92" rx="3" ry="2.5" fill="#FFFFFF"/>
+    <path d="M 158 108 L 175 118 C 180 128 175 138 165 138 L 152 130 Z" fill="#D8D0C0"/>
+    <path d="M 170 118 C 176 120 178 128 173 132 C 168 134 165 128 170 118 Z" fill="#1a1a1a"/>
+    <path d="M 160 132 Q 168 128 175 132" stroke="#1a1a1a" stroke-width="2.5" fill="none"/>
+    <ellipse cx="165" cy="58" rx="30" ry="8" fill="none" stroke="#ff00ff" stroke-width="2" opacity="0.6"/>
+    <text x="145" y="395" class="mt">⚠️ YETI ⚠️</text>
+    <text x="145" y="412" class="ms">You're already dead, sweetie</text>
   </g>
 
-  <!-- Interdimensional portal effects -->
-  <g opacity="0.4">
-    <ellipse cx="375" cy="250" rx="8" ry="18" fill="#ff00ff" transform="rotate(30 375 250)"/>
-    <ellipse cx="375" cy="250" rx="4" ry="12" fill="#00ffff" transform="rotate(-30 375 250)"/>
-    <ellipse cx="715" cy="250" rx="8" ry="18" fill="#00ffff" transform="rotate(30 715 250)"/>
-    <ellipse cx="715" cy="250" rx="4" ry="12" fill="#ffff00" transform="rotate(-30 715 250)"/>
-    <ellipse cx="1075" cy="250" rx="8" ry="18" fill="#ffff00" transform="rotate(30 1075 250)"/>
-    <ellipse cx="1075" cy="250" rx="4" ry="12" fill="#ff00ff" transform="rotate(-30 1075 250)"/>
+  <!-- 5. BIGFOOT / SASQUATCH -->
+  <g transform="translate(1200, 55)">
+    <ellipse cx="165" cy="355" rx="145" ry="14" fill="url(#portal)"/>
+    <path d="M 70 300 L 52 392 L 92 396 L 110 310 Z" fill="#3A2212"/>
+    <path d="M 210 300 L 192 392 L 232 396 L 250 310 Z" fill="#3A2212"/>
+    <ellipse cx="72" cy="392" rx="35" ry="12" fill="#2A1A0A"/>
+    <ellipse cx="212" cy="392" rx="35" ry="12" fill="#2A1A0A"/>
+    <path d="M 52 320 C 28 265 30 145 75 88 C 118 42 198 40 248 88 C 288 128 298 210 278 272 C 262 315 220 348 160 352 C 98 355 62 340 52 320 Z" fill="#5A3A22"/>
+    <path d="M 52 320 C 28 265 30 145 75 88 C 118 42 198 40 248 88 C 288 128 298 210 278 272 C 262 315 220 348 160 352 C 98 355 62 340 52 320 Z" fill="url(#bigfootFur)"/>
+    <path d="M 115 108 C 108 72 152 48 185 48 C 218 48 248 65 250 95 C 252 125 235 145 202 148 C 160 150 128 135 115 108 Z" fill="#6B4C3B"/>
+    <ellipse cx="158" cy="88" rx="8" ry="6" fill="#FFD700"/>
+    <ellipse cx="158" cy="88" rx="3" ry="2.5" fill="#FFFFFF"/>
+    <ellipse cx="212" cy="88" rx="8" ry="6" fill="#FFD700"/>
+    <ellipse cx="212" cy="88" rx="3" ry="2.5" fill="#FFFFFF"/>
+    <path d="M 178 108 L 198 120 C 204 132 195 142 182 140 L 168 130 Z" fill="#4A3020"/>
+    <path d="M 192 118 C 200 120 202 130 196 134 C 190 136 186 130 192 118 Z" fill="#1a1a1a"/>
+    <path d="M 180 135 Q 190 130 198 134" stroke="#1a1a1a" stroke-width="2.5" fill="none"/>
+    <text x="165" y="400" class="mt" fill="#FFD700">🦍 BIGFOOT / SASQUATCH</text>
+    <text x="165" y="417" class="ms" fill="#B8860B">If you see him, he already saw you first</text>
   </g>
 
-  <!-- Bottom quote -->
-  <text x="750" y="495" font-family="'Segoe UI', sans-serif" font-style="italic" font-size="14" fill="#888" text-anchor="middle">"The black bear knows every berry patch. The grizzly knows every trail. The polar bear knows no mercy. The yeti knows you are not prepared."</text>
+  <g opacity="0.35">
+    <ellipse cx="315" cy="260" rx="6" ry="15" fill="#ff00ff" transform="rotate(25 315 260)"/>
+    <ellipse cx="315" cy="260" rx="3" ry="10" fill="#00ffff" transform="rotate(-25 315 260)"/>
+    <ellipse cx="605" cy="260" rx="6" ry="15" fill="#00ffff" transform="rotate(25 605 260)"/>
+    <ellipse cx="605" cy="260" rx="3" ry="10" fill="#ffff00" transform="rotate(-25 605 260)"/>
+    <ellipse cx="885" cy="260" rx="6" ry="15" fill="#ffff00" transform="rotate(25 885 260)"/>
+    <ellipse cx="885" cy="260" rx="3" ry="10" fill="#ff00ff" transform="rotate(-25 885 260)"/>
+    <ellipse cx="1195" cy="260" rx="6" ry="15" fill="#ff00ff" transform="rotate(25 1195 260)"/>
+    <ellipse cx="1195" cy="260" rx="3" ry="10" fill="#00ff88" transform="rotate(-25 1195 260)"/>
+  </g>
+
+  <text x="900" y="510" font-family="'Segoe UI', sans-serif" font-style="italic" font-size="14" fill="#888" text-anchor="middle">"The multiverse has rules. These creatures are the exceptions."</text>
 </svg>
