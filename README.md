@@ -13,8 +13,9 @@
 | 🐻 **Black Bear** | *Protector of the understory* | **"If it's black, don't hurt"** | The quiet observer. Read the subtle signals. Know when to walk away. |
 | 🐻‍❄️ **Grizzly** | *Guardian of the high country* | **"If it's grizzly, bear spray please. Thank you GTFO!"** | When danger is real — loud, clear, actionable alerts. No ambiguity. |
 | 🐻‍❄️ **Polar Bear** | *Warden of the frozen edge* | **"If it's polar, you won't see another year of solar"** | Some situations are so toxic you must cut all contact. The emergency wipe. |
+| 🧌 **Yeti (Unclassified)** | *??* | **"If it's a yeti, you're already dead, sweetie"** | Some threats are beyond profiling. The yeti is a reminder — not everything can be quantified. Trust your gut. |
 
-> *"The black bear knows every berry patch. The grizzly knows every trail. The polar bear knows no mercy."*
+> *"The black bear knows every berry patch. The grizzly knows every trail. The polar bear knows no mercy. The yeti knows you are not prepared."*
 
 </div>
 
