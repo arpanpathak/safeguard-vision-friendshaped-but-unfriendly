@@ -4,11 +4,7 @@
 
 <br>
 
-<img src="art/black-bear.svg" alt="Black Bear" width="180" height="140">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="art/grizzly.svg" alt="Grizzly" width="180" height="140">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="art/polar-bear.svg" alt="Polar Bear" width="180" height="140">
+<img src="art/three-guardians.svg" alt="Three Guardians of the Cascades — Grizzly, Black Bear, Polar Bear" width="100%">
 
 <br><br>
 

@@ -1,7 +1,0 @@
-<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
-  <!-- Polar Bear Silhouette Logo (long neck) -->
-  <path d="M25 100 Q28 75 35 60 Q38 40 40 30 Q42 18 48 15 L55 12 Q60 10 65 14 L70 22 Q78 28 85 32 L95 38 Q100 35 108 38 L115 42 Q125 40 132 45 Q140 50 148 60 Q155 70 162 85 L170 100 Q172 110 170 120 Q165 132 155 135 L145 135 Q135 125 130 110 L125 100 Q118 105 108 108 L98 110 L92 125 Q88 135 80 138 L72 138 Q65 132 60 118 L55 100 Q50 95 45 92 L40 105 Q35 125 25 130 L15 130 Q5 125 0 115 Z" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
-  <ellipse cx="50" cy="30" rx="10" ry="16" fill="#f0f0f0"/>
-  <text x="90" y="158" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#666">POLAR BEAR</text>
-  <text x="90" y="172" text-anchor="middle" font-family="monospace" font-size="10" fill="#999">Ursus maritimus</text>
-</svg>
