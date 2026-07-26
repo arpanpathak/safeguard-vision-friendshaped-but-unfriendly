@@ -1,0 +1,6 @@
+<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black Bear Silhouette Logo -->
+  <path d="M20 90 Q25 60 45 50 Q50 35 70 30 L75 20 Q78 15 82 18 L80 30 Q95 28 110 30 Q112 20 115 18 Q118 15 120 20 L125 30 Q145 35 150 50 Q170 60 175 90 L170 110 Q165 125 155 130 L145 130 Q135 125 130 110 L128 100 Q120 105 110 108 L100 110 L95 130 Q92 138 85 138 L78 138 Q75 130 70 110 L60 108 Q50 105 42 100 L40 110 Q35 125 25 130 L15 130 Q5 125 0 110 Z" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
+  <text x="90" y="158" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#1a1a1a">BLACK BEAR</text>
+  <text x="90" y="172" text-anchor="middle" font-family="monospace" font-size="10" fill="#666">Ursus americanus</text>
+</svg>

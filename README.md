@@ -4,57 +4,11 @@
 
 <br>
 
-<!-- Black Bear Logo -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="0" height="0">
-
-<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgBlack" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1a1a"/>
-      <stop offset="100%" style="stop-color:#2d2d2d"/>
-    </linearGradient>
-  </defs>
-  <!-- Black Bear Silhouette -->
-  <path d="M20 90 Q25 60 45 50 Q50 35 70 30 L75 20 Q78 15 82 18 L80 30 Q95 28 110 30 Q112 20 115 18 Q118 15 120 20 L125 30 Q145 35 150 50 Q170 60 175 90 L170 110 Q165 125 155 130 L145 130 Q135 125 130 110 L128 100 Q120 105 110 108 L100 110 L95 130 Q92 138 85 138 L78 138 Q75 130 70 110 L60 108 Q50 105 42 100 L40 110 Q35 125 25 130 L15 130 Q5 125 0 110 Z" fill="#1a1a1a" stroke="#333" stroke-width="1"/>
-  <text x="90" y="158" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#1a1a1a">BLACK BEAR</text>
-  <text x="90" y="172" text-anchor="middle" font-family="monospace" font-size="10" fill="#666">Ursus americanus</text>
-</svg>
-
+<img src="art/black-bear.svg" alt="Black Bear" width="180" height="140">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Grizzly Bear Logo -->
-<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrizzly" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#4a3520"/>
-      <stop offset="100%" style="stop-color:#6b4c30"/>
-    </linearGradient>
-  </defs>
-  <!-- Grizzly Bear Silhouette (with hump) -->
-  <path d="M15 90 Q20 60 40 50 Q42 30 50 22 Q58 15 68 20 L75 28 Q78 25 82 22 Q88 18 92 22 L98 28 Q105 30 110 35 L120 28 Q128 22 135 28 Q142 35 145 45 Q150 48 155 55 Q165 65 170 80 L175 95 L175 115 Q170 130 160 135 L150 135 Q140 125 135 110 L130 100 Q125 105 115 108 L105 110 L100 125 Q95 135 88 138 L80 138 Q75 135 70 125 L65 108 Q55 105 45 100 L40 110 Q35 125 25 130 L15 130 Q5 125 0 115 Z" fill="#4a3520" stroke="#5a4030" stroke-width="1"/>
-  <!-- Hump -->
-  <ellipse cx="80" cy="28" rx="18" ry="12" fill="#4a3520"/>
-  <text x="90" y="158" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#4a3520">GRIZZLY</text>
-  <text x="90" y="172" text-anchor="middle" font-family="monospace" font-size="10" fill="#666">Ursus arctos horribilis</text>
-</svg>
-
+<img src="art/grizzly.svg" alt="Grizzly" width="180" height="140">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-<!-- Polar Bear Logo -->
-<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgPolar" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f5f5f5"/>
-      <stop offset="100%" style="stop-color:#e0e0e0"/>
-    </linearGradient>
-  </defs>
-  <!-- Polar Bear Silhouette (long neck profile) -->
-  <path d="M25 100 Q28 75 35 60 Q38 40 40 30 Q42 18 48 15 L55 12 Q60 10 65 14 L70 22 Q78 28 85 32 L95 38 Q100 35 108 38 L115 42 Q125 40 132 45 Q140 50 148 60 Q155 70 162 85 L170 100 Q172 110 170 120 Q165 132 155 135 L145 135 Q135 125 130 110 L125 100 Q118 105 108 108 L98 110 L92 125 Q88 135 80 138 L72 138 Q65 132 60 118 L55 100 Q50 95 45 92 L40 105 Q35 125 25 130 L15 130 Q5 125 0 115 Z" fill="#f0f0f0" stroke="#ccc" stroke-width="1"/>
-  <!-- Extended neck for polar bear -->
-  <ellipse cx="50" cy="30" rx="10" ry="16" fill="#f0f0f0"/>
-  <text x="90" y="158" text-anchor="middle" font-family="monospace" font-size="14" font-weight="bold" fill="#666">POLAR BEAR</text>
-  <text x="90" y="172" text-anchor="middle" font-family="monospace" font-size="10" fill="#999">Ursus maritimus</text>
-</svg>
+<img src="art/polar-bear.svg" alt="Polar Bear" width="180" height="140">
 
 <br><br>
 
