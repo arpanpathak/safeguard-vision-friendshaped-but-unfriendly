@@ -1,8 +1,25 @@
 <div align="center">
 
+<img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=300&fit=crop&auto=format" alt="Mt. Rainier" width="100%">
+<br>
+<sub><em>Tahoma (Mt. Rainier) — 14,411 ft of silent witness</em></sub>
+
+<br><br>
+
+<img src="https://images.unsplash.com/photo-1590514259672-5f05b1bcf4f2?w=380&h=250&fit=crop&auto=format" alt="Black Bear" width="45%">
+<img src="https://images.unsplash.com/photo-1530595467537-0b5996c41f2d?w=380&h=250&fit=crop&auto=format" alt="Grizzly Bear" width="45%">
+
+<br>
+<sub><b>Black Bear</b> — <em>Protector of the understory</em> &nbsp;&nbsp;&nbsp;&nbsp; <b>Grizzly</b> — <em>Guardian of the high country</em></sub>
+
+</div>
+
+<br>
+
 # 😎 Safeguard Vision — Friendshaped But Unfriendly
 
 > *"Because your heart deserves a second opinion."*
+> *— Standing guard over your perception, like the bears of the Cascades.*
 
 **Open‑source AI‑powered smart glasses that detect love bombing and emotional manipulation — in real time.**
 
@@ -32,6 +49,23 @@ It runs on smart glasses + a companion wrist band, processing:
 > **Never profile the other person. Only profile the user's response to them.**
 
 This isn't about judging others — it's about giving the user data about their own nervous system.
+
+---
+
+## 🐻 Guardians of the Cascades
+
+Like the Pacific Northwest we call home, this project draws its spirit from the old-growth forests and volcanic peaks that watch over the land.
+
+| Guardian | Spirit | Why It Guards This Project |
+|----------|--------|---------------------------|
+| 🐻 **Black Bear** *(Ursus americanus)* | **Protector of the understory** — patient, observant, knows when to retreat | This system watches the subtle signals most people miss — micro-expressions, voice tremors, HRV shifts. Like the black bear reading the forest floor, it reads the understory of human interaction. |
+| 🐻‍❄️ **Grizzly** *(Ursus arctos horribilis)* | **Guardian of the high country** — powerful, territorial, fiercely protective | When danger is detected, this system acts. The grizzly's authority backs every alert — *this is not a suggestion, this is your nervous system screaming.* |
+| 🏔️ **Tahoma (Mt. Rainier)** | **The unshakable witness** — 14,411 ft of silent, ancient presence | Above the noise, above the manipulation, above the gaslighting — a clear, immovable perspective. This is what the system offers: a mountain's vantage on your own experience. |
+
+> *"The black bear knows every berry patch. The grizzly knows every trail. The mountain knows everything."*
+> — Puget Sound Salish saying (adapted)
+
+In the same way, Safeguard Vision combines **the quiet observer** (your physiology, your micro-expressions) with **the fierce protector** (real-time alerts, emergency wipe) to give you a **mountain's perspective** on your own interactions.
 
 ---
 
