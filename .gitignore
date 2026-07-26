@@ -1,0 +1,36 @@
+# ── Rust ──────────────────────────────────────────────
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# ── Build Artifacts ───────────────────────────────────
+*.o
+*.ptx
+*.cubin
+*.so
+*.dylib
+*.dll
+
+# ── IDE / Editor ─────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Data / Config (never commit user data) ───────────
+*.onnx
+*.pt
+*.pth
+*.bin
+*.npy
+calibration/
+user_data/
+
+# ── Environment ──────────────────────────────────────
+.env
+.env.local

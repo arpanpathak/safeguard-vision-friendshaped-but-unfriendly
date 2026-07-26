@@ -1,0 +1,22 @@
+[package]
+name = "safeguard-vision-friendshaped-but-unfriendly"
+version = "0.1.0"
+description = "Open-source AI-powered smart glasses system that detects love bombing and emotional manipulation in real time"
+authors = ["Arpan Pathak <arpanpathak1996@gmail.com>"]
+edition = "2021"
+license = "AGPL-3.0-only"
+repository = "https://github.com/arpanpathak/safeguard-vision-friendshaped-but-unfriendly"
+homepage = "https://github.com/arpanpathak/safeguard-vision-friendshaped-but-unfriendly"
+keywords = ["safety", "ai", "smart-glasses", "abuse-prevention", "mental-health"]
+categories = ["multimedia::video", "science::neuro"]
+
+[dependencies]
+# TODO: Add dependencies incrementally as modules are built
+# cuda-oxide = "0.1"       # GPU kernel compiler (Rust → PTX)
+# tokio = { version = "1", features = ["full"] }  # Async runtime
+# serde = { version = "1", features = ["derive"] } # Serialization
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1

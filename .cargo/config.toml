@@ -1,0 +1,6 @@
+# Safeguard Vision — Cargo Configuration
+#
+# TODO: Add CUDA-Oxide target configuration once the build pipeline is stable.
+# [target.'cfg(target_os = "linux")']
+# linker = "rust-ld"
+# rustflags = ["--cfg", "cuda_oxide"]
