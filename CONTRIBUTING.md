@@ -36,11 +36,19 @@ First off, thank you for caring about protecting people from emotional manipulat
 
 ## 📏 Coding Standards
 
+**PRs that do not adhere to our coding standards will be rejected.**
+
+Read the full standards document: [CODING_STANDARDS.md](CODING_STANDARDS.md)
+
+Key rules at a glance:
 - **Functional over imperative** — prefer pure functions, avoid mutable state
 - **Idiomatic Rust** — use enums, match, iterators, and the type system
 - **Document everything** — every public function needs a doc comment
 - **No unsafe blocks** without `// SAFETY:` justification
 - **SOLID principles** — small interfaces, clear responsibilities
+- **Formal verification** — property-based tests for critical math/logic
+- **No dead code** — commented-out code gets rejected
+- **Zero-cost abstractions** — no allocations on the hot path
 
 ## 🧑‍⚖️ Contributor Covenant
 
