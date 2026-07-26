@@ -59,8 +59,8 @@
     </radialGradient>
   </defs>
   <style>
-    .label-title { font-family: 'Segoe UI', -apple-system, Roboto, sans-serif; font-weight: 800; font-size: 15px; fill: #1a1a1a; text-anchor: middle; letter-spacing: 1.5px; }
-    .label-sub { font-family: 'Segoe UI', -apple-system, Roboto, sans-serif; font-style: italic; font-size: 12px; fill: #666666; text-anchor: middle; }
+    .label-title { font-family: 'Segoo UI', -apple-system, Roboto, sans-serif; font-weight: 800; font-size: 15px; fill: #1a1a1a; text-anchor: middle; letter-spacing: 1.5px; }
+    .label-sub { font-family: 'Segoo UI', -apple-system, Roboto, sans-serif; font-style: italic; font-size: 12px; fill: #666666; text-anchor: middle; }
   </style>
   <!-- 1. GRIZZLY BEAR -->
   <g transform="translate(15, 20)">
@@ -131,7 +131,7 @@
     <path d="M 252 250 L 262 380 L 308 383 L 295 240 Z" fill="url(#polarBody)"/>
     <path d="M 215 150 C 262 145 300 160 332 182 C 348 192 338 225 290 230 C 248 218 215 182 215 150 Z" fill="url(#polarBody)"/>
     <path d="M 298 160 C 292 144 308 132 328 136 C 348 140 365 160 358 182 C 342 198 312 192 298 160 Z" fill="url(#polarHead)"/>
-    <ellipse cx="306" cy="140" rx="9" ry="11" fill="#ECE8DF" transform="rotate(-15 306 140)"/>
+    <ellipse cx="306" cy="140" rx="9" ry="11" fill="#ECE8DFA" transform="rotate(-15 306 140)"/>
     <ellipse cx="306" cy="140" rx="5" ry="7" fill="#B5AC9C" transform="rotate(-15 306 140)"/>
     <path d="M 338 158 L 378 174 C 382 182 370 192 352 189 L 328 178 Z" fill="url(#polarHead)"/>
     <path d="M 368 172 C 380 173 382 180 375 185 C 368 188 364 182 368 172 Z" fill="#0F0F0F"/>
